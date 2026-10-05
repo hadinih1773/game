@@ -1,3 +1,2 @@
-# database
-
-This data are from scraper
+# Game Json
+Cocok Untuk Bot Discord dan Whatsapp
